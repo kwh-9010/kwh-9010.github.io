@@ -1,7 +1,7 @@
 full_rebuild: true
-name: Gridster
-description: the material experience for jekyll
-destination: jekyllbuild
+name: 테스트용 블로그
+description: 블로그 제작 테스트
+destination: kwh9010
 url: "https://kwh-9010.github.io"
 baseurl: #place folder name if site is served in subfolder
 permalink: /:title/
